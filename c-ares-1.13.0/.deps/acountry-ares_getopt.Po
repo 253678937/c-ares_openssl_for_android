@@ -1,0 +1,82 @@
+acountry-ares_getopt.o: ares_getopt.c \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdio.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/cdefs.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/cdefs_elf.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/android/api-level.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdint.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/_wchar_limits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/posix_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/stddef.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/compiler.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/posix_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/kernel.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/sysmacros.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdlib.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/string.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/malloc.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/alloca.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/strings.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/memory.h \
+ ares_getopt.h
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdio.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/cdefs.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/cdefs_elf.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/android/api-level.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdint.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/_wchar_limits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/posix_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/stddef.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/compiler.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/posix_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/kernel.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/sysmacros.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdlib.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/string.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/malloc.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/alloca.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/strings.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/memory.h:
+
+ares_getopt.h:

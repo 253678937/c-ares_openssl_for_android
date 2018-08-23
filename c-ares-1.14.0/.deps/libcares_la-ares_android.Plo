@@ -1,0 +1,267 @@
+libcares_la-ares_android.lo: ares_android.c \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/jni.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/cdefs.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/cdefs_elf.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/android/api-level.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h \
+ ares_setup.h ares_config.h ares_build.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdint.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/_wchar_limits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/posix_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/stddef.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/compiler.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/posix_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/kernel.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/sysmacros.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/socket.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/socket.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/socket.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/sockios.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/sockios.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/uio.h \
+ ares_rules.h setup_once.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdio.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdlib.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/string.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/malloc.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/alloca.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/strings.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/memory.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/ctype.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/errno.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/errno.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/errno.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm-generic/errno.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm-generic/errno-base.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/stat.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/time.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/time.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/stat.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/endian.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/endian.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/time.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/siginfo.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm-generic/siginfo.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdbool.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/unistd.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/select.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/signal.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include-fixed/limits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include-fixed/syslimits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/limits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/limits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/limits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/internal_types.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/limits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/syslimits.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/page.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/signal.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm-generic/signal.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/sigcontext.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/ucontext.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/user.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/sysconf.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/capability.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/pathconf.h \
+ ares.h ares_version.h ares_build.h ares_rules.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/netinet/in.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/in.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/byteorder.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/byteorder/little_endian.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/byteorder/swab.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/byteorder/generic.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/in6.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/ipv6.h \
+ /Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/netinet/in6.h \
+ ares_android.h ares_private.h ares_ipv6.h ares_llist.h ares_strdup.h
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/jni.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/cdefs.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/cdefs_elf.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/android/api-level.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h:
+
+ares_setup.h:
+
+ares_config.h:
+
+ares_build.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdint.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/_wchar_limits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/posix_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/stddef.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/compiler.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/posix_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/kernel.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/sysmacros.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/socket.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/socket.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/socket.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/sockios.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/sockios.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/uio.h:
+
+ares_rules.h:
+
+setup_once.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdio.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/stdlib.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/string.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/malloc.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/alloca.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/strings.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/memory.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/ctype.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/errno.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/errno.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/errno.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm-generic/errno.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm-generic/errno-base.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/stat.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/time.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/time.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/stat.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/endian.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/endian.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/time.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/siginfo.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm-generic/siginfo.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdbool.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/unistd.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/select.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/signal.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include-fixed/limits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/lib/gcc/arm-linux-androideabi/4.9/include-fixed/syslimits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/limits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/limits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/limits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/internal_types.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/machine/limits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/syslimits.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/page.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/signal.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm-generic/signal.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/sigcontext.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/ucontext.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/user.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/sys/sysconf.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/capability.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/pathconf.h:
+
+ares.h:
+
+ares_version.h:
+
+ares_build.h:
+
+ares_rules.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/netinet/in.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/in.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/asm/byteorder.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/byteorder/little_endian.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/byteorder/swab.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/byteorder/generic.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/in6.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/linux/ipv6.h:
+
+/Users/weiquanyun/tools/toolchain_armeabi/sysroot/usr/include/netinet/in6.h:
+
+ares_android.h:
+
+ares_private.h:
+
+ares_ipv6.h:
+
+ares_llist.h:
+
+ares_strdup.h:

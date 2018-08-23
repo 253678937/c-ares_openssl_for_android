@@ -1,0 +1,12 @@
+prefix=/Users/weiquanyun/test/toolchain_x86/sysroot/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+enginesdir=${libdir}/engines-1.1
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Version: 1.1.0f
+Libs: -L${libdir} -lcrypto
+Libs.private: -L/Users/weiquanyun/test/toolchain_x86/sysroot/usr/lib -lz -ldl 
+Cflags: -I${includedir}
